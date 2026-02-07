@@ -43,26 +43,6 @@
 
 <br/>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanshupardeshi&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshupardeshi&theme=radical" alt="Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshupardeshi&layout=compact&theme=radical" alt="Top Langs" />
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devanshupardeshi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </a>
-</div>
 
 <br/>
 
