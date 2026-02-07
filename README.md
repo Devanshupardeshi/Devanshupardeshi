@@ -46,12 +46,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devanshupardeshi&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshupardeshi&theme=radical&hide_border=true&background=00000000" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devanshupardeshi&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshupardeshi&theme=radical" alt="Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshupardeshi&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshupardeshi&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 <br/>
@@ -60,7 +60,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Devanshupardeshi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=devanshupardeshi&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
   </a>
 </div>
 
